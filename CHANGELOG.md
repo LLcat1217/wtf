@@ -2,6 +2,14 @@
 
 ## Unreleased
 
+## 0.38.0
+
+### 🐞 Fixed
+
+* FeedReader module handles line breaks in item titles gracefully, [#1088](https://github.com/wtfutil/wtf/issues/1088) by [@GibranHL0](https://github.com/GibranHL0)
+
+## 0.37.0
+
 ### ⚡️ Added
 
 * Yahoo Finance module added, by [@inetAnt](https://github.com/inetAnt)
